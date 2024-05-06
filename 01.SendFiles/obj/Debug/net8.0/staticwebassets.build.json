@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GvUCp4UjZBriCcxvOmK7ulNtfGrZ2YZQEqJQqbLVwkc=",
+  "Source": "01.SendFiles",
+  "BasePath": "_content/01.SendFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

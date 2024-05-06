@@ -1,0 +1,6 @@
+@_01.SendFiles_HostAddress = http://localhost:5084
+
+GET {{_01.SendFiles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
